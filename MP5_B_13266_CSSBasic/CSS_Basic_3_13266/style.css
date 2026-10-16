@@ -1,0 +1,12 @@
+body {
+background-color: rgb(32, 99, 174);
+min-height: 100vh;
+margin: 0;
+}
+
+#informasi {
+    box-shadow: 0 1px 2px 0 rgb(48, 77, 142);
+    background-color: rgba(255, 255, 255, 0.9); 
+    padding: 10px 30px 5px 20px; 
+    font-family: sans-serif
+    font-weight: 600; 
